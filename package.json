@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "create-expo-app": "^2.1.1",
+    "expo": "^50.0.6",
+    "@expo/vector-icons": "^14.0.0",
+    "expo-image-picker": "~14.7.1"
+  }
+}
